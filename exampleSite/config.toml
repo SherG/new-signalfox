@@ -1,4 +1,4 @@
-title = "Spearfish | Smart funding for small business | Founded by Sherrie Gossett"
+title = "Signalfox | Growth Advising for Small Business | Founded by Sherrie Gossett"
 baseURL = "www.spearfishcap.com"
 languageCode = "en-us"
 themesDir = "../.."
@@ -14,12 +14,12 @@ google_analytics_id = ""
 google_tag_manager_id = ""
 
   [params.logo]
-  standard = "images/spearfish-logo2.png"
+  standard = "images/signalfox-logo.png"
   mobile = "images/spearfish-logo2.png"
-  alt = "spearfish logo"
+  alt = "signalfox logo"
 
   [params.homepage_meta_tags]
-  meta_description = "Get business financing that adds no debt to your balance sheet. Includes credit protection against customers who may go bankrupt before they pay you. "
+  meta_description = "Before spending a bundle, get a second opinion on marketing & growth options for your small business."
   meta_og_title = "Spearfish: Fast funding for small business"
   meta_og_type = "website"
   meta_og_url = "https://www.spearfishcap.com"
