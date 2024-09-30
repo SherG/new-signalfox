@@ -1,0 +1,19 @@
+
+[
+  {
+    "title": "Free Consultation",
+    "description": "Book a phone appointment with us. Get funding options ASAP.",
+    "image": "images/features/funding-consultant.svg"
+  },
+  {
+    "title": "Smart solutions",
+    "description": "Get a solution customized to your situation.",
+    "image": "images/features/smart-funding.svg"
+  },
+    {
+    "title": "Easy approvals",
+    "description": "Enjoy the convenience of streamlined funding.",
+    "image": "images/agreement.svg"
+  }
+]
+
